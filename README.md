@@ -31,7 +31,7 @@ mixed Chinese/English, and it never hijacks your clipboard.*
 | [manet-persistent-root-research](https://github.com/jiusi1-cpu/manet-persistent-root-research) | 锁定 Bootloader 下的持久化 root 研究：内核偏移、栈几何、候选载体 |
 | [claude-private-browser-kit](https://github.com/jiusi1-cpu/claude-private-browser-kit) | 面向中国及跨区域场景的 Claude 环境自检与浏览器隔离工具包 |
 | [agent-project-doctor](https://github.com/jiusi1-cpu/agent-project-doctor) | 把仓库交给 AI 编码 agent 之前，先做一次本地体检 |
-| [个人文件中心](https://github.com/jiusi1-cpu/jjjihjik) | Next.js + Supabase + Tailwind 全栈私有文件管理 |
+| [个人文件中心](https://github.com/jiusi1-cpu/personal-file-center) | Next.js + Supabase + Tailwind 全栈私有文件管理 |
 
 ---
 
