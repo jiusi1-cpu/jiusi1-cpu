@@ -15,15 +15,23 @@
 
 ---
 
-## 在做的东西 / What I'm building
+## 精选项目 / Featured
 
-### [aliyun-voice-input](https://github.com/jiusi1-cpu/aliyun-voice-input)
+### [aliyun-voice-input](https://github.com/jiusi1-cpu/aliyun-voice-input) · 语音输入
 
 按住小键盘 `0` 说话，松手文字就出现在光标处 —— Windows 上的按住说话语音输入。
 零本地模型、不吃显存，彩色玻璃浮窗实时反馈你的音量，中英混说也认得准。
 
 *Hold-to-talk dictation for Windows with a real glass HUD. No local model, no GPU,
 mixed Chinese/English, and it never hijacks your clipboard.*
+
+| 项目 | 一句话 |
+| --- | --- |
+| [小米平板 6 Pro 刷机笔记](https://github.com/jiusi1-cpu/xiaomi-pad6pro-liuqin-notes) | 刷机 / KernelSU / 120Hz 性能调优的可复用完整指南，含验证证据与回滚脚本 |
+| [manet-persistent-root-research](https://github.com/jiusi1-cpu/manet-persistent-root-research) | 锁定 Bootloader 下的持久化 root 研究：内核偏移、栈几何、候选载体 |
+| [claude-private-browser-kit](https://github.com/jiusi1-cpu/claude-private-browser-kit) | 面向中国及跨区域场景的 Claude 环境自检与浏览器隔离工具包 |
+| [agent-project-doctor](https://github.com/jiusi1-cpu/agent-project-doctor) | 把仓库交给 AI 编码 agent 之前，先做一次本地体检 |
+| [个人文件中心](https://github.com/jiusi1-cpu/jjjihjik) | Next.js + Supabase + Tailwind 全栈私有文件管理 |
 
 ---
 
